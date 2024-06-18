@@ -1,0 +1,24 @@
+<header>
+    <h1>UEFA.com</h1>
+    <button id="loginBtn" type="button" (click)="login()">Log in</button>
+</header>
+<section>
+    <div id="euro-photo"></div>
+    <div id="menu">
+        <ul>
+            <li>Matches</li>
+            <li>Video</li>
+            <li>Stats</li>
+            <li>Gaming</li>
+            <li>Teams</li>
+            <li>News</li>
+            <li>Tickets</li>
+            <li>Event guide</li>
+            <li>More</li>
+        </ul>
+    </div>
+</section>
+<section id="groups">
+    <h1>Groups</h1>
+    <app-group-table *ngFor="let group of groups" [group]="group" />
+</section>

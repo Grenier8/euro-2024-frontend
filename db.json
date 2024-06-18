@@ -1,0 +1,150 @@
+{
+    "teams": [
+        {
+            "id": 0,
+            "name": "Germany",
+            "letters": "GER",
+            "idGroup": 0,
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "for": 5,
+            "against": 1,
+            "goalDifference": 4,
+            "points": 3,
+            "formGuide": [
+                "W"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Switzerland",
+            "letters": "SWI",
+            "idGroup": 0,
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "for": 3,
+            "against": 1,
+            "goalDifference": 2,
+            "points": 3,
+            "formGuide": [
+                "W"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hungary",
+            "letters": "HUN",
+            "idGroup": 0,
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "for": 1,
+            "against": 3,
+            "goalDifference": -2,
+            "points": 0,
+            "formGuide": [
+                "L"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Scotland",
+            "letters": "SCO",
+            "idGroup": 0,
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "for": 1,
+            "against": 5,
+            "goalDifference": -4,
+            "points": 0,
+            "formGuide": [
+                "L"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Spain",
+            "letters": "SPA",
+            "idGroup": 1,
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "for": 3,
+            "against": 0,
+            "goalDifference": 3,
+            "points": 3,
+            "formGuide": [
+                "W"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Italy",
+            "letters": "ITA",
+            "idGroup": 1,
+            "played": 1,
+            "won": 1,
+            "drawn": 0,
+            "lost": 0,
+            "for": 2,
+            "against": 1,
+            "goalDifference": 1,
+            "points": 3,
+            "formGuide": [
+                "W"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Albania",
+            "letters": "ALB",
+            "idGroup": 1,
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "for": 1,
+            "against": 2,
+            "goalDifference": -1,
+            "points": 0,
+            "formGuide": [
+                "L"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Croatia",
+            "letters": "CRO",
+            "idGroup": 1,
+            "played": 1,
+            "won": 0,
+            "drawn": 0,
+            "lost": 1,
+            "for": 0,
+            "against": 3,
+            "goalDifference": -3,
+            "points": 0,
+            "formGuide": [
+                "L"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "id": 0,
+            "name": "A"
+        },
+        {
+            "id": 1,
+            "name": "B"
+        }
+    ]
+}
